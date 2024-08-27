@@ -1,0 +1,1 @@
+Robot dog, quadruped robot, 12DOF, 3DOF per leg by SovGVD on Thingiverse: https://www.thingiverse.com/thing:4822059
